@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pattern/2.1.iml" filepath="$PROJECT_DIR$/pattern/2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Randomnum/Randomnum.iml" filepath="$PROJECT_DIR$/Randomnum/Randomnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avrage/avrage.iml" filepath="$PROJECT_DIR$/avrage/avrage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evennum/evennum.iml" filepath="$PROJECT_DIR$/evennum/evennum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farcal/farcal.iml" filepath="$PROJECT_DIR$/farcal/farcal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findinglar3num/findinglar3num.iml" filepath="$PROJECT_DIR$/findinglar3num/findinglar3num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/leapYear/leapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+    </modules>
+  </component>
+</project>

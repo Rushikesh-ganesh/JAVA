@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" filepath="$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputMethod1/InputMethod1.iml" filepath="$PROJECT_DIR$/InputMethod1/InputMethod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MalUrl/MalUrl.iml" filepath="$PROJECT_DIR$/MalUrl/MalUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessApi/ProcessApi.iml" filepath="$PROJECT_DIR$/ProcessApi/ProcessApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog.iml" filepath="$PROJECT_DIR$/prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/selectionSort/selectionSort.iml" />
+    </modules>
+  </component>
+</project>
